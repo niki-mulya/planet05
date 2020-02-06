@@ -1,3 +1,2 @@
 # planet05
-https:://github.com/wnitya2/codingmum_training/blob/master/index.html
-Hellooo Woorld
+Planet 05 berisi tentang nama-nama planet di angkasa
